@@ -4,6 +4,7 @@ import Hero from "./Hero.vue";
 import About from "./About.vue";
 //import AboutSections from "../features/about/Sections.vue";
 import Projects from "./Projects.vue";
+import Blog from "./Blog.vue";
 import Contact from "./Contact.vue";
 import Footer from "../../../components/Footer.vue";
 import { ref, onMounted, onUnmounted, watchEffect, computed, watch } from "vue";
@@ -110,8 +111,8 @@ const handleProjectsLoaded = () => {
 
 watchEffect((onInvalidate) => {
   if (
-    projectsLoaded &&
-    threeInitialized &&
+    projectsLoaded.value &&
+    threeInitialized.value &&
     //(projectId.value === null || isTransitioning.value) &&
     !preloaderVisible.value
   ) {
@@ -158,6 +159,7 @@ watch(
         <div class="about-spacer" ref="aboutSpacerRef" id="about"></div>
       </div>
       <Projects id="projects" @loaded="handleProjectsLoaded" />
+      <Blog />
       <div ref="contactRef" class="home-contact">
         <Contact id="contact" v-if="projectsLoaded" />
       </div>
