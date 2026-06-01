@@ -1,7 +1,7 @@
 {
   "about": "About",
-  "about-intro": "Web Artisan crafting bespoke interactive 3D experiences and scalable real-time systems.<br />Specialized in high-performance applications that merge stunning visuals with seamless functionality using WebGL, TypeScript, and Node.js. Every project built with attention to craft and performance.",
-  "about-tagline": "Artisan web experiences: interactive 3D, real-time systems, and scalable architectures that are fast, beautiful, and built to last.",
+  "about-intro": "Web Artisan and Technical Lead crafting high-performance fullstack applications.<br />Specialized in scalable MERN stack solutions, serverless cloud architecture, and clean, resilient code.",
+  "about-tagline": "High-performance fullstack products, built with scalable MERN architecture and resilient cloud-first engineering.",
   "back-to-home": "Back to home",
   "blog": "Blog",
   "blog-intro": "Notes from courses I am taking, real project build logs, and practical AI automation experiments.",

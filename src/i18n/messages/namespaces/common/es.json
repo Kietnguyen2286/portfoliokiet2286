@@ -1,7 +1,7 @@
 {
   "about": "Sobre mi",
-  "about-intro": "Web Artisan creando experiencias interactivas 3D a medida y sistemas en tiempo real escalables.<br />Especializado en aplicaciones de alto rendimiento que combinan visuales potentes con funcionalidad fluida usando WebGL, TypeScript y Node.js. Cada proyecto se construye con enfoque en calidad y performance.",
-  "about-tagline": "Experiencias web artesanales: 3D interactivo, sistemas en tiempo real y arquitecturas escalables que son rapidas, bellas y duraderas.",
+  "about-intro": "Web Artisan y Technical Lead desarrollando aplicaciones fullstack de alto rendimiento.<br />Especializado en soluciones escalables con MERN stack, arquitectura cloud serverless y codigo limpio y resiliente.",
+  "about-tagline": "Productos fullstack de alto rendimiento, construidos con arquitectura MERN escalable e ingenieria cloud-first resiliente.",
   "back-to-home": "Volver al inicio",
   "blog": "Blog",
   "blog-intro": "Notas de los cursos que estoy tomando, bitacoras de proyectos reales y experimentos practicos de automatizacion con IA.",
