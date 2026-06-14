@@ -99,7 +99,7 @@ const handleTimelineCreated = (timeline: gsap.core.Timeline, delay: number) => {
     <div ref="wrapperRef" class="box-description">
       <div class="box-description-content">
         <div class="box-description-details">
-          <p class="box-description-details-name">Alexis Gonzalez</p>
+          <p class="box-description-details-name">Kiet Nguyen Quoc</p>
           <div class="box-description-details-location">
             <PinIcon class="box-description-details-location-icon" />
             <p class="box-description-details-location-copy">Zapopan, Mexico</p>
